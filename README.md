@@ -1,6 +1,6 @@
 # Node/Express API with PostGres backend
 
-Mostly from (here)[http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#postgres-setup]
+Mostly from [here](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#postgres-setup)
 
 ## Preliminary
 - `node models/create_db.js`
@@ -13,7 +13,7 @@ Mostly from (here)[http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#pos
 - Or, if you don't want/need launchctl, you can just run: `postgres -D /usr/local/var/postgres`
 
 - connect with psql (mac)
-- psql (cheat sheet)[http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf]
+- psql [cheat sheet](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
 
 ### `psql` commands
 
